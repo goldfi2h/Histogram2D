@@ -1,0 +1,80 @@
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\concrt140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\cvextern.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\msvcp140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\msvcp140_1.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\msvcp140_2.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\msvcp140_codecvt_ids.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\vcruntime140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x64\vcruntime140_1.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\concrt140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\cvextern.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\msvcp140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\msvcp140_1.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\msvcp140_2.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\msvcp140_codecvt_ids.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\x86\vcruntime140.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\NewPicEditApp.exe.config
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\NewPicEditApp.exe.manifest
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\NewPicEditApp.application
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\NewPicEditApp.exe
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\NewPicEditApp.pdb
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetFramework.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetStandard.dll
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetFramework.xml
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetStandard.xml
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.csproj.AssemblyReference.cache
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.PicForm.resources
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.Histogram2DForm.resources
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.HistogramForm.resources
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.Properties.Resources.resources
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.ResultForm.resources
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.csproj.GenerateResource.cache
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.csproj.CoreCompileInputs.cache
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.exe.manifest
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.application
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.csproj.CopyComplete
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.exe
+C:\Users\natwi\Downloads\NewEditPicApp-Nowsze-zmiany\NewPicEditApp\obj\Release\NewPicEditApp.pdb
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\concrt140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\cvextern.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\msvcp140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\msvcp140_1.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\msvcp140_2.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\msvcp140_codecvt_ids.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\opencv_videoio_ffmpeg430_64.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\vcruntime140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x64\vcruntime140_1.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\concrt140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\cvextern.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\msvcp140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\msvcp140_1.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\msvcp140_2.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\msvcp140_codecvt_ids.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\opencv_videoio_ffmpeg430.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\x86\vcruntime140.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\NewPicEditApp.exe.config
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\NewPicEditApp.exe.manifest
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\NewPicEditApp.application
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\NewPicEditApp.exe
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\NewPicEditApp.pdb
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetFramework.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetStandard.dll
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetFramework.xml
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\bin\Release\Emgu.CV.Platform.NetStandard.xml
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.csproj.AssemblyReference.cache
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.PicForm.resources
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.Histogram2DForm.resources
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.HistogramForm.resources
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.Properties.Resources.resources
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.ResultForm.resources
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.csproj.GenerateResource.cache
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.csproj.CoreCompileInputs.cache
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.exe.manifest
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.application
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.csproj.CopyComplete
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.exe
+C:\Users\natwi\Downloads\Natalia Wiśniewska APO\NewPicEditApp\obj\Release\NewPicEditApp.pdb
